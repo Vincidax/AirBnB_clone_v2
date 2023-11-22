@@ -4,6 +4,12 @@ This repository contains the initial stage of a student project to build a clone
 
 ---
 
+<center> <h1>New Authors</h1> </center>
+1.Pacifique SHIMIRWA - github.com/SPaci20
+2.Vincent DUSHIME - github.com/Vincidax
+
+---
+
 <center><h3>Repository Contents by Project Task</h3> </center>
 
 | Tasks | Files | Description |
